@@ -89,14 +89,14 @@ export const projects = [
     id: 1,
     name: "Cinema Column",
     description: "Cinema streaming site",
-    path:'',
+    path:'https://cinemacolumn.netlify.app',
     image: cinema,
   },
   {
     id: 2,
     name: "Hungry Nomad",
     description: "Food delivery app",
-    path:'',
+    path:'https://hungrynomad.netlify.app',
     image: hungry,
   },
   {
